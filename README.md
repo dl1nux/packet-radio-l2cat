@@ -26,6 +26,6 @@ Hinweis: Die Verbindung ins Packet Radio Netzwerk ist nur für lizenzierte
 Funkamateure gestattet.
 
 Stand 30.04.2021
-Attila Kocis, DL1NUX
-www.dl1nux.de
-attila@dl1nux.de
+* Attila Kocis, DL1NUX
+* www.dl1nux.de
+* attila@dl1nux.de
