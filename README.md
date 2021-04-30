@@ -1,5 +1,4 @@
-# packet-radio-l2cat
-Packet Radio Terminal in der Linux konsole mit L2CAT
+# Packet Radio Terminal in der Linux konsole mit L2CAT
 
 l2cat ist ein Tool aus der dxlAPRS Toolchain von Chris OE5DXL.
 Weitere Infocs zu l2cat hier: http://dxlwiki.dl1nux.de/index.php?title=L2cat
